@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-07T16:40:51 IST" name="Default suite" finished-at="2022-03-07T16:41:30 IST" duration-ms="39475">
+    <groups>
+    </groups>
+    <test started-at="2022-03-07T16:40:51 IST" name="Default test" finished-at="2022-03-07T16:41:30 IST" duration-ms="39475">
+      <class name="com.pom.Pagefactory.Datadriven.TestNG.BaseClass.Utility.LisnersProperty.LoginTestClass">
+        <test-method is-config="true" signature="browserlaunch()[pri:0, instance:com.pom.Pagefactory.Datadriven.TestNG.BaseClass.Utility.LisnersProperty.LoginTestClass@37654521]" started-at="2022-03-07T16:40:51 IST" name="browserlaunch" finished-at="2022-03-07T16:41:08 IST" duration-ms="17540" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method is-config="true" signature="loginToApp()[pri:0, instance:com.pom.Pagefactory.Datadriven.TestNG.BaseClass.Utility.LisnersProperty.LoginTestClass@37654521]" started-at="2022-03-07T16:41:08 IST" name="loginToApp" finished-at="2022-03-07T16:41:14 IST" duration-ms="6030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApp -->
+        <test-method signature="verificationOfInitials()[pri:0, instance:com.pom.Pagefactory.Datadriven.TestNG.BaseClass.Utility.LisnersProperty.LoginTestClass@37654521]" started-at="2022-03-07T16:41:14 IST" name="verificationOfInitials" finished-at="2022-03-07T16:41:21 IST" duration-ms="6783" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificationOfInitials -->
+        <test-method is-config="true" signature="profilenavigation(org.testng.ITestResult)[pri:0, instance:com.pom.Pagefactory.Datadriven.TestNG.BaseClass.Utility.LisnersProperty.LoginTestClass@37654521]" started-at="2022-03-07T16:41:21 IST" name="profilenavigation" finished-at="2022-03-07T16:41:24 IST" duration-ms="2928" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verificationOfInitials status=SUCCESS method=LoginTestClass.verificationOfInitials()[pri:0, instance:com.pom.Pagefactory.Datadriven.TestNG.BaseClass.Utility.LisnersProperty.LoginTestClass@37654521] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- profilenavigation -->
+        <test-method signature="verificationOfLogo()[pri:0, instance:com.pom.Pagefactory.Datadriven.TestNG.BaseClass.Utility.LisnersProperty.LoginTestClass@37654521]" started-at="2022-03-07T16:41:24 IST" name="verificationOfLogo" finished-at="2022-03-07T16:41:26 IST" duration-ms="1638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificationOfLogo -->
+        <test-method is-config="true" signature="profilenavigation(org.testng.ITestResult)[pri:0, instance:com.pom.Pagefactory.Datadriven.TestNG.BaseClass.Utility.LisnersProperty.LoginTestClass@37654521]" started-at="2022-03-07T16:41:26 IST" name="profilenavigation" finished-at="2022-03-07T16:41:29 IST" duration-ms="2834" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verificationOfLogo status=SUCCESS method=LoginTestClass.verificationOfLogo()[pri:0, instance:com.pom.Pagefactory.Datadriven.TestNG.BaseClass.Utility.LisnersProperty.LoginTestClass@37654521] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- profilenavigation -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.pom.Pagefactory.Datadriven.TestNG.BaseClass.Utility.LisnersProperty.LoginTestClass@37654521]" started-at="2022-03-07T16:41:29 IST" name="closeBrowser" finished-at="2022-03-07T16:41:30 IST" duration-ms="1521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.pom.Pagefactory.Datadriven.TestNG.BaseClass.Utility.LisnersProperty.LoginTestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

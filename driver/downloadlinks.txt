@@ -1,0 +1,22 @@
+steps for opening the browser.
+Note:1.Download and install the browser(firefox,edge,chrome browsers).
+	 2.Download same version of driver and keep in driver folder on machine.
+	 3.Download the jar (if any) and keep in jars folder 
+	 4.Import the jar by adding into your project through buildpath=>config buildpath.......
+     5.set system property
+     6.create object for respective browser types
+     7.call using reference get()to open a url.	
+---------------------------------------------------------------------------------------
+geckodriver driver download url
+https://github.com/mozilla/geckodriver/releases
+
+edgebrowser driver download  url
+https://msedgewebdriverstorage.z22.web.core.windows.net/
+download the version same as on you machine edge browser 
+
+jar for edge browser support download link
+https://mvnrepository.com/artifact/com.microsoft.edge/msedge-selenium-tools-java/3.141.0
+
+IEDriverServer  driver download url
+http://selenium-release.storage.googleapis.com/index.html?path=3.141/
+download IEDriverServer_x64_3.141.59.zip
